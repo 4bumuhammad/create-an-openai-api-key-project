@@ -2,7 +2,7 @@
 ## Test : used OpenAI Session Token
 
 
-<div align="center">
+<div align="left">
     <img src="../gambar-petunjuk/ss_authorization.png" alt="ss_authorization" style="display: block; margin: 0 auto;">
 </div> 
 
