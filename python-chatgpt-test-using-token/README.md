@@ -28,7 +28,7 @@
             def chat_with_gpt(user_input):
 
                 # API KEY "test-key" (created 17 Mat 2024) pawonebabah2019@gmail.com
-                openai.api_key =""
+                openai.api_key ="{OPENAI_API_KEY}"
 
                 response = openai.Completion.create(
                     engine="gpt-3.5-turbo-instruct",
