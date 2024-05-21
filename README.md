@@ -1,4 +1,4 @@
-# Create an OpenAI API Key
+# 2024, May | Create an OpenAI API Key
 
 &nbsp;
 
@@ -15,6 +15,24 @@ Create an OpenAI API key to gain access to the ChatGPT API. This key allows Open
 <pre>https://platform.openai.com/api-keys</pre>
 <div align="center">
     <img src="./gambar-petunjuk/ss_openai_api_key_001.png" alt="ss_openai_api_key_001" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_openai_api_key_002.png" alt="ss_openai_api_key_002" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_openai_api_key_003.png" alt="ss_openai_api_key_003" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_openai_api_key_004.png" alt="ss_openai_api_key_004" style="display: block; margin: 0 auto;">
 </div> 
 
 &nbsp;
