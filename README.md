@@ -4,7 +4,13 @@
 
 &nbsp;
 
+Reference : <br />
+- Docs | GTP for Work
+  <pre>https://gptforwork.com/help/knowledge-base/create-openai-api-key</pre>
+
 &nbsp;
+
+Create an OpenAI API key to gain access to the ChatGPT API. This key allows OpenAI to track your usage and generate accurate billing.
 
 ---
 
