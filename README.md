@@ -12,6 +12,8 @@ Reference : <br />
 
 Create an OpenAI API key to gain access to the ChatGPT API. This key allows OpenAI to track your usage and generate accurate billing.
 
+<pre>https://platform.openai.com/api-keys</pre>
+
 ---
 
 &nbsp;
